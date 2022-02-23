@@ -1,0 +1,14 @@
+/*##Device = Tablets, Ipads (portrait)##Screen = B/w 768px to 1024px*/
+@media (min-width: 768px) and (max-width: 1024px) {
+.header{width: 129% !important;}
+.header-menu p{font-size: 30px !important;line-height: 60px !important;}
+.header-menu ul li a{font-size: 24px !important;}
+.heade-ache{margin: 15% 22% !important;}
+.banner{width: 129% !important;height: 60vh !important;}
+.introduction{padding-top: 225px !important;}
+.text{width: 129% !important;}
+.photos{width: 129% !important;}
+.up{padding-bottom: 15px !important;}
+.footer{width: 129% !important;}
+.last{width: 129% !important;}
+}
